@@ -1,4 +1,8 @@
-.contact {
+.contactList {
   display: flex;
+  gap: 15px;
+}
+.contact {
   border: 1px solid black;
+  border-radius: 4px;
 }
